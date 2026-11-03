@@ -1,6 +1,6 @@
 // Shanice's KPSEA surprise: name check + reveal + sparkles
 (function () {
-  var ALLOWED_NAMES = ['shanice']; // add more spellings here if needed
+  var ALLOWED_NAMES = ['Dora']; // add more spellings here if needed
 
   var form = document.getElementById('nameForm');
   var input = document.getElementById('visitorName');
